@@ -1,3 +1,5 @@
+# 3. Write a python program to swap two variables without using a third variable.
+
 P = int(input('Please enter value for P: '))
 Q = int(input('Please enter value for Q: '))
 

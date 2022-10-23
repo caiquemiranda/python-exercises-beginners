@@ -1,3 +1,5 @@
+# 9. Write a python program to find HCF.
+
 def calculate_hcf(x, y):
     if x > y:
         smaller = y

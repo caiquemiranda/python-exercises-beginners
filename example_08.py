@@ -1,3 +1,5 @@
+# 8. Write a python program to find lcm
+
 def calculate_lcm(x, y):
     if x > y:
         greater = x

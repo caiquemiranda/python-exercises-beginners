@@ -1,3 +1,5 @@
+# 7. Write a python program to find factorial of a number.
+
 num = int(input('Enter a number: '))
 
 factorial = 1
